@@ -1,1 +1,3 @@
-"# SuicideGuyTextGame" 
+HELLO :) esse é um simples jogo de texto que estou criando com python
+
+descripção: Em Breve...

@@ -1,0 +1,8 @@
+Quarto1 = "Despertador"; buraco no teto ; Sala1
+Sala1  = extensão; void; Quarto1, Cozinha
+Cozinha = remedios; void; Sala1, Banheiro, Desposito
+Banheiro = void; Banheira; Cozinha
+Deposito = banquinho, cartão de passagem, corda; void; Cozinha
+
+buraco no teto = banquinho, corda
+banheira = despertador, extensão, remedios
